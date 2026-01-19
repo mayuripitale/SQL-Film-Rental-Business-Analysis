@@ -6,13 +6,12 @@ The analysis focuses on customer behavior, rental trends, and revenue distributi
 
 ## Tools Used
 - SQL (MySQL)
-- Sample Film Rental Database (Sakila)
+- Sakila Sample Film Rental Database
 
 ## Key SQL Skills Applied
 - Data filtering, sorting, and conditional querying (SELECT, WHERE, ORDER BY)
 - Data aggregation and grouping using GROUP BY and HAVING
 - Multi-table analysis using INNER and LEFT JOINs
-- Subqueries for advanced filtering and comparison
 - Use of aggregate functions such as COUNT, SUM, and AVG
 
 ## Project Objective
